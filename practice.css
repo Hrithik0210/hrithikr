@@ -1,0 +1,22 @@
+.carousel-item img{
+	height:800px;
+	width: 1500px;
+}
+.hero_caption h1{
+	color: black;
+	font-size: 50px;
+}
+.hero_caption h1:hover{
+	color: red;
+	transform: scale(1.5);
+	transition: 1s ease-in-out;
+}
+nav{
+	background-color: yellow;
+}
+.carousel-inner{
+	background-color: yellowgreen;
+}
+.hero_caption h1{
+	align-items: center;
+}
